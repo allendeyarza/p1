@@ -1,0 +1,46 @@
+﻿Allende de Yarza - Práctica 1 PAT
+ENTORNO DE DESARROLLO JAVA 
+
+
+
+
+Me he descargado HomeBrew para ayudar con la instalación. 
+
+
+1. Descarga de Java 17 
+  
+
+
+
+2. Descarga de Maven 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+3. Descarga de Intel J y Visual Studio Code
