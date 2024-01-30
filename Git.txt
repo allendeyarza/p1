@@ -1,0 +1,124 @@
+﻿Allende de Yarza - Práctica 1 PAT
+PRÁCTICA 1 DE PAT 
+
+
+1. Creación de Fork 
+2. Prueba de los Comandos 
+   1. Git clone  
+
+
+
+
+
+
+
+
+
+
+
+
+Git clone lo utilizamos para clonar un repositorio git existente (desde el servidor Git, Git Hub) a mi máquina local. El comando tiene como argumento la URL del repositorio que estamos clonando. 
+
+
+   2. Git Status  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El comando Git Status informa sobre la situación de mi rama actual, en este caso main, con relación al repositorio remoto (origin). Nos responde On branch main que quiere decir que nos encontramos en la rama main del repositorio local. Además nos informa de que nuestra rama local está actualizada respecto a la del repositorio. Esto es lógico puesto que todavía no hemos realizado ninguna actualización. 
+
+
+      3. Git add .   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El comando Git add se utiliza para indicar que los cambios o archivos nuevos se lleven al área de preparación (listos para ser incluidos en el próximo commit), en este caso con el . indicamos que se realice sobre todos los archivos y directorios (si no quisiéramos todos, especificaremos cuales). 
+
+
+         4. Git commit 
+  
+
+
+
+
+
+
+
+Se utiliza para realizar un commit en mi repositorio git, es decir, guardar los cambios realizados en mi proyecto en el historial de versiones. Los cambios se indican con un mensaje. 
+
+
+         5. Git push  
+
+
+
+
+
+
+
+
+
+
+            6.             7. 
+
+  
+
+
+
+
+
+
+
+
+
+Con Git push envíamos los commits locales al repositorio remoto (se ve en la segunda imagen como ha llegado el commit). Actualizamos el historial del repositorio remoto con mis cambios locales. 
+
+
+
+
+            8. Git Checkout
+  
+
+
+
+
+
+
+
+
+
+
+
+Creamos y nos movemos a una nueva rama que hemos denominado feature/1. El -b lo que hace es crear una nueva y movernos a ella en una única acción. Con checkout main lo que hacemos es movernos de nuevo a la rama main.
